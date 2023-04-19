@@ -1,0 +1,17 @@
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\bin\Debug\net6.0-windows\Cylinder Volume Program.exe
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\bin\Debug\net6.0-windows\Cylinder Volume Program.deps.json
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\bin\Debug\net6.0-windows\Cylinder Volume Program.runtimeconfig.json
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\bin\Debug\net6.0-windows\Cylinder Volume Program.dll
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\bin\Debug\net6.0-windows\Cylinder Volume Program.pdb
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.vbproj.AssemblyReference.cache
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder_Volume_Program.Form1.resources
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.vbproj.GenerateResource.cache
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.AssemblyInfoInputs.cache
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.AssemblyInfo.vb
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.dll
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\refint\Cylinder Volume Program.dll
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.pdb
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\Cylinder Volume Program.genruntimeconfig.cache
+F:\GitHub Projects\cylinder-volume-program\Cylinder Volume Program\Cylinder Volume Program\obj\Debug\net6.0-windows\ref\Cylinder Volume Program.dll
