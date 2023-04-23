@@ -63,6 +63,16 @@ Partial Class Form1
         Label3.TabIndex = 2
         Label3.Text = "Height"
         ' 
+        ' Label4
+        ' 
+        Label4.AutoSize = True
+        Label4.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
+        Label4.Location = New Point(100, 225)
+        Label4.Name = "Label4"
+        Label4.Size = New Size(76, 24)
+        Label4.TabIndex = 3
+        Label4.Text = "Volume"
+        ' 
         ' txtRadius
         ' 
         txtRadius.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
@@ -78,16 +88,6 @@ Partial Class Form1
         txtHeight.Name = "txtHeight"
         txtHeight.Size = New Size(227, 29)
         txtHeight.TabIndex = 5
-        ' 
-        ' Label4
-        ' 
-        Label4.AutoSize = True
-        Label4.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
-        Label4.Location = New Point(100, 225)
-        Label4.Name = "Label4"
-        Label4.Size = New Size(76, 24)
-        Label4.TabIndex = 3
-        Label4.Text = "Volume"
         ' 
         ' txtVolume
         ' 
@@ -126,9 +126,9 @@ Partial Class Form1
         Controls.Add(btnClear)
         Controls.Add(btnCalculate)
         Controls.Add(txtVolume)
-        Controls.Add(Label4)
         Controls.Add(txtHeight)
         Controls.Add(txtRadius)
+        Controls.Add(Label4)
         Controls.Add(Label3)
         Controls.Add(Label2)
         Controls.Add(Label1)
@@ -141,9 +141,9 @@ Partial Class Form1
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
+    Friend WithEvents Label4 As Label
     Friend WithEvents txtRadius As TextBox
     Friend WithEvents txtHeight As TextBox
-    Friend WithEvents Label4 As Label
     Friend WithEvents txtVolume As TextBox
     Friend WithEvents btnCalculate As Button
     Friend WithEvents btnClear As Button
