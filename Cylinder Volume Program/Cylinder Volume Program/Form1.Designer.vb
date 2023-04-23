@@ -41,7 +41,8 @@ Partial Class Form1
         Label1.Name = "Label1"
         Label1.Size = New Size(277, 26)
         Label1.TabIndex = 0
-        Label1.Text = "Cylinder Volume Calculator"' 
+        Label1.Text = "Cylinder Volume Calculator"
+        ' 
         ' Label2
         ' 
         Label2.AutoSize = True
@@ -50,7 +51,8 @@ Partial Class Form1
         Label2.Name = "Label2"
         Label2.Size = New Size(68, 24)
         Label2.TabIndex = 1
-        Label2.Text = "Radius"' 
+        Label2.Text = "Radius"
+        ' 
         ' Label3
         ' 
         Label3.AutoSize = True
@@ -59,14 +61,15 @@ Partial Class Form1
         Label3.Name = "Label3"
         Label3.Size = New Size(65, 24)
         Label3.TabIndex = 2
-        Label3.Text = "Height"' 
+        Label3.Text = "Height"
+        ' 
         ' txtRadius
         ' 
         txtRadius.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
         txtRadius.Location = New Point(200, 125)
         txtRadius.Name = "txtRadius"
         txtRadius.Size = New Size(227, 29)
-        txtRadius.TabIndex = 3
+        txtRadius.TabIndex = 4
         ' 
         ' txtHeight
         ' 
@@ -74,7 +77,7 @@ Partial Class Form1
         txtHeight.Location = New Point(200, 175)
         txtHeight.Name = "txtHeight"
         txtHeight.Size = New Size(227, 29)
-        txtHeight.TabIndex = 4
+        txtHeight.TabIndex = 5
         ' 
         ' Label4
         ' 
@@ -83,8 +86,9 @@ Partial Class Form1
         Label4.Location = New Point(100, 225)
         Label4.Name = "Label4"
         Label4.Size = New Size(76, 24)
-        Label4.TabIndex = 5
-        Label4.Text = "Volume"' 
+        Label4.TabIndex = 3
+        Label4.Text = "Volume"
+        ' 
         ' txtVolume
         ' 
         txtVolume.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
